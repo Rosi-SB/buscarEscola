@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Busca de Escolas Municipais</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏫 Busca de Escolas Municipais</h1>
+            <p>Encontre escolas municipais com filtros avançados de pesquisa</p>
+        </div>
+
+        <div class="search-section">
+            <form class="search-form" id="searchForm">
+                <div class="form-group">
+                    <label for="schoolName">Nome da Escola</label>
+                    <input type="text" id="schoolName" placeholder="Digite o nome da escola...">
+                </div>
+
+                <div class="form-group">
+                    <label for="address">Endereço/Bairro</label>
+                    <input type="text" id="address" placeholder="Digite o endereço ou bairro...">
+                </div>
+
+                <div class="form-group">
+                    <label for="schoolType">Tipo de Escola</label>
+                    <select id="schoolType">
+                        <option value="">Todos os tipos</option>
+                        <option value="fundamental">Ensino Fundamental</option>
+                        <option value="infantil">Educação Infantil</option>
+                    </select>
+                </div>
+
+
+                <button type="submit" class="search-btn">🔍 Buscar Escolas</button>
+            </form>
+
+            <div class="filter-tags" id="filterTags"></div>
+        </div>
+
+        <div class="results-section">
+            <div class="results-header">
+                <div class="results-count" id="resultsCount">Digite os critérios e clique em buscar</div>
+            </div>
+
+            <div id="resultsContainer">
+                <!-- Resultados serão inseridos aqui -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

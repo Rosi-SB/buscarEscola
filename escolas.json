@@ -1,0 +1,237 @@
+[
+  {
+    "name": "EMEI Albertina Baldo Pereira",
+    "address": "R. Atlântida, 575 – Tarraf",
+    "phone": "3521-1338",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Profª. Albertina Diogo Spanazzi",
+    "address": "R. Peruíbe, 555 – Jardim Alpino",
+    "phone": "3521-1546",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Ângelo Carana",
+    "address": "R. Cristais, 163 – Parque Flamingo",
+    "phone": "3521-1303",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Antônio Nelson Zancaner",
+    "address": "Av. São Domingos, 1500 - Centro",
+    "phone": "3522-5214",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Dr. Armando Prandi",
+    "address": "R. Novais, 1225 – Jardim Sotto",
+    "phone": "3523-1820 / 3521-1977",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEF Arnaldo Zancaner",
+    "address": "R. Ver. Guido Broglia, 685 – Jardim Sotto",
+    "phone": "3521-1207 / 3523-9407",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI Caio Eduardo Luis Pereira Manchini",
+    "address": "R. Atibaia, 1115 – Jardim Alpino",
+    "phone": "3524-1036",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Profª. Cênica Bochi",
+    "address": "Rua Concórdia 998 – Giordano Mestrinelli",
+    "phone": "3521-1871",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Prof. Carlos Alberto Spina",
+    "address": "R. Promissão, 75 – Jardim Eldorado",
+    "phone": "3523-4217",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Coronel José Pedro da Motta",
+    "address": "R. Jaçanã, 215 e 155 – Jardim Imperial",
+    "phone": "3523-1845 / 3521-2012",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEF Profª Darci Helena Delgado Januário",
+    "address": "R. São Leopoldo, 175 – Bom Pastor",
+    "phone": "3525-0908",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI Profª. Dora de Arruda Mendes",
+    "address": "R. Gramado, 492 – Cj. Hab. Angelo Gavioli",
+    "phone": "3521-1470",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Profª. Elissa Schettini Roman Capuano",
+    "address": "R. Luiz Carlos Siqueira Chaves, 150 - Nova Catanduva II",
+    "phone": "99679-8101",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Gabriel Hernandes Ferreira",
+    "address": "R. Linhares, 231 – Gabriel Hernandez",
+    "phone": "3521-1449",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Prof. Gastão Silveira",
+    "address": "R. Lourenço Betti, 277 – Cj. Hab. Giordano Mestrinelli",
+    "phone": "3522-0605",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEF Profª. Graciema Ramos da Silva-CAIC",
+    "address": "Rua Antônio Zancaner 630 – Solo Sagrado I",
+    "phone": "3524-9944 / 3525-0645",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI Profª Idette de Lourdes Frias Couto",
+    "address": "R. Colina, 1000 – Parque Glória III",
+    "phone": "3523-7135",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Prof. José D’Oliveira Barreto",
+    "address": "R. Birigui, 238 – Jadim Bela Vista",
+    "phone": "3522-3203",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI José Lahud Cury",
+    "address": "R. Araraquara, 767 - Jardim Belém",
+    "phone": "3522-2809",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Profª Lázara A. da Silva Milhorança",
+    "address": "R. Corumbá, 420 – Jardim Salles",
+    "phone": "3523-2644",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI Luiza Lourenço da Cruz",
+    "address": "R. 15 de Novembro, 2605 – Cj. Hab. Euclides Figueiredo",
+    "phone": "3521-1509",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEIEF Profa. Luzia Ap. Sestito Gradella",
+    "address": "Rua das Uvas, 381 – Nova Catanduva",
+    "phone": "99638-2427 / 3521-8538",
+    "type":["fundamental", "infantil"]
+  },
+  {
+    "name": "EMEF Profª Maria Ap. Colturato Fernandes",
+    "address": "R. Geraldo Zirondi, 155 – Jardim Diolfen Martani",
+    "phone": "3521-2010",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI Profª. Maria Ap. de Carvalho Azarite",
+    "address": "R. Araraquara, 1080 – Vila Santo Antônio",
+    "phone": "3521-1348",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Profª. Maria Áurea Rosa Domingues",
+    "address": "R. Pirajuí, 1227 – Jardim Sotto",
+    "phone": "3521-1344",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Profª Maria José Brida Fedelli",
+    "address": "R. Pau Brasil, 140 – Agudo Romão II",
+    "phone": "3525-6757",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Prof. Mário Antonio Bizari",
+    "address": "R. Antonio Zancaner, 630 – Solo Sagrado",
+    "phone": "3524-9943",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Prof. Mário Juliano Pozetti",
+    "address": "R. Vianópolis, 385 – Cj. Hab. Julia Busnardo Caparroz (Nosso Teto)",
+    "phone": "3521-1221 / 3522-0326",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI Profª. Marisa Ap. Vera Dervelan",
+    "address": "R. Piauí, 425 – São Francisco",
+    "phone": "3521-1476",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Prof. Nardi Ignotti",
+    "address": "R. Linhares, 55 – Gabriel Hernandez",
+    "phone": "3521-1428",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Prof. Nelson de Macedo Musa",
+    "address": "R. Cubatão, 1032 – Jardim Alpino",
+    "phone": "3521-1155",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI Prof. Nelson Martins",
+    "address": "R. Lagoa Real, 268 - Parque Glória V",
+    "phone": "99601-4177",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Prof. Neuze Baptista",
+    "address": "R. Palmeiras, 45 – Vila Lunardelli",
+    "phone": "3521-1591",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Octacílio de Oliveira Ramos",
+    "address": "R. Rio Grande do Sul, 348 – Higienópolis",
+    "phone": "3521-1980",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEF Prof. Santos Aguiar",
+    "address": "R. São João da Boa Vista, 110 – Jardim Amendôla",
+    "phone": "3522-4328",
+    "type": "fundamental"
+  },
+  {
+    "name": "EMEI Vanir Martinho Braz",
+    "address": "R. das Uvas, 381 - Nova Catanduva",
+    "phone": "99602-8969",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEI Prof. Virgílio de Arruda Mendes-CAIC",
+    "address": "R. Antonio Zancaner, 630 – Solo Sagrado",
+    "phone": "3525-0924 / 3521-1461",
+    "type": "infantil"
+  },
+  {
+    "name": "EMEF Prof. Waldemar Martins Aydar",
+    "address": "R. Manoel Martins Ulhera, 155 – Cj. Hab. Giuseppe Spina (Pacha II)",
+    "phone": "3525-0897 / 3523-3417",
+    "type": "fundamental"
+  },
+  {
+    "name": "Projeto ABC do Saber",
+    "address": "R. João Altamir Borhi, 55 Conjunto Pedro Nechar",
+    "phone": "3521-1997",
+    "type": "fundamental"
+    
+  }
+]
