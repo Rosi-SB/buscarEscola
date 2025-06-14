@@ -69,13 +69,18 @@ function performSearch(filters) {
       matches = false;
     }
 
-    if (
+  if (
       filters.address &&
-      !school.address.toLowerCase().includes(filters.address)
+      !school.address
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+        .includes(
+          filters.address
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+        )
     ) {
       matches = false;
     }
-
+    
     if (filters.schoolType && school.type !== filters.schoolType) {
       matches = false;
     }
@@ -197,3 +202,8 @@ setTimeout(() => {
 document.addEventListener('DOMContentLoaded', () => {
   loadSchoolsData();
 });
+
+    // Atualiza o ano atual no rodapé
+document.getElementById(
+  "anoAtual"
+).innerHTML = `&copy; ${new Date().getFullYear()} Todos os direitos reservados.`;
